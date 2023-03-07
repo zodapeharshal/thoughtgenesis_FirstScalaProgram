@@ -1,3 +1,3 @@
 object MainClass extends  App {
-print("Hello World")
+print("Hello World from scala")
 }
